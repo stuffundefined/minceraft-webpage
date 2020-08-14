@@ -26,7 +26,7 @@ img {
 #img2 {
     border-radius: 0 25px 25px 0;
 }
-@media only screen and (max-width: 590px) {
+@media only screen and (max-width: 800px) {
     #headimg {
         display: block;
     }
@@ -42,7 +42,7 @@ img {
         border-radius: 0 0 25px 25px;
     }
 }
-@media only screen and (max-height: 335px), (max-width: 335px) {
+@media only screen and (max-height: 335px), (max-width: 590px) {
     #headimg {
         display: none;
     }
